@@ -8,7 +8,7 @@ The system utilizes a combined neural network approach integrating LSTM and full
 
 ## Approach
 
-1. **Data Preprocessing**: The historical data is preprocessed to prepare input-output pairs for training the neural network. `Daily prices are used as inputs for the LSTM model, while the fully connected model takes longitude, latitude, size, and light as features`.
+1. **Data Preprocessing**: The historical data is preprocessed to prepare input-output pairs for training the neural network. Daily prices are used as inputs for the LSTM model, while the fully connected model takes longitude, latitude, size, and light as features.
 
 2. **Model Training**: The neural network is trained using a combination of LSTM and fully connected layers to learn the relationship between daily prices and billboard features with booking ratios.
 
