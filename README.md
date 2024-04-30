@@ -4,7 +4,7 @@ This repository contains the code for an optimal price detection system develope
 
 ## Overview
 
-The system utilizes a combined neural network approach integrating LSTM and fully connected models to predict optimal prices for each billboard for the first week of 2024 based on historical data from 2013 to 2023. The provided dataset includes daily prices and booking ratios for each billboard over 10 years.
+The system utilizes a combined neural network approach integrating LSTM and fully connected models to predict optimal prices for each billboard for the first week of 2024 based on historical data from 2013 to 2023. The provided [dataset](https://drive.google.com/drive/folders/1jdNwupZrNfcDATLuCB6VJBIBX2mo6oyh?usp=drive_link) includes daily prices and booking ratios for each billboard over 10 years.
 
 ## Approach
 
