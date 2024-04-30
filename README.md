@@ -14,5 +14,5 @@ The system utilizes a combined neural network approach integrating LSTM and full
 
 3. **Prediction**: Using benchmark data, the trained model predicts booking rates.
 
-4. **Optimal Price Selection**: `We set different daily prices and multiply them with predicted booking ratios to calculate weekly revenue for each billboard. The daily price yielding the highest weekly revenue is detected as the optimal price for that billboard.`
+4. **Optimal Price Selection**: _We set different daily prices and multiply them with predicted booking ratios to calculate weekly revenue for each billboard. The daily price yielding the highest weekly revenue is detected as the optimal price for that billboard._
 
